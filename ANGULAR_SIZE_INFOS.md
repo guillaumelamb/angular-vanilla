@@ -9,32 +9,32 @@ ng new angular-vanilla
 
 ## CLI Version
 
-+ @angular/cli@1.0.0
+\+ @angular/cli@1.0.0\
 added 872 packages from 668 contributors in 43.376s
 
 ## Install
 
-added 1125 packages from 1104 contributors and audited 8595 packages in 46.294s
+added 1125 packages from 1104 contributors and audited 8595 packages in 46.294s\
 found 24 vulnerabilities (11 low, 5 moderate, 8 high)
 
 ## Build
 
 ### ng build
 
-Time: 10175ms
-chunk    {0} polyfills.bundle.js, polyfills.bundle.js.map (polyfills) 195 kB {4} [initial] [rendered]
-chunk    {1} main.bundle.js, main.bundle.js.map (main) 3.69 kB {3} [initial] [rendered]
-chunk    {2} styles.bundle.js, styles.bundle.js.map (styles) 9.78 kB {4} [initial] [rendered]
-chunk    {3} vendor.bundle.js, vendor.bundle.js.map (vendor) 2.21 MB [initial] [rendered]
+Time: 10175ms\
+chunk    {0} polyfills.bundle.js, polyfills.bundle.js.map (polyfills) 195 kB {4} [initial] [rendered]\
+chunk    {1} main.bundle.js, main.bundle.js.map (main) 3.69 kB {3} [initial] [rendered]\
+chunk    {2} styles.bundle.js, styles.bundle.js.map (styles) 9.78 kB {4} [initial] [rendered]\
+chunk    {3} vendor.bundle.js, vendor.bundle.js.map (vendor) 2.21 MB [initial] [rendered]\
 chunk    {4} inline.bundle.js, inline.bundle.js.map (inline) 0 bytes [entry] [rendered]
 
 ### ng build --prod
 
-Time: 8955ms
-chunk    {0} polyfills.96e35672118cea79182e.bundle.js (polyfills) 195 kB {4} [initial] [rendered]
-chunk    {1} main.5b1b9b6cad1bd626a3dd.bundle.js (main) 679 bytes {3} [initial] [rendered]
-chunk    {2} styles.d41d8cd98f00b204e980.bundle.css (styles) 69 bytes {4} [initial] [rendered]
-chunk    {3} vendor.f6f25a63268d804c31f0.bundle.js (vendor) 870 kB [initial] [rendered]
+Time: 8955ms\
+chunk    {0} polyfills.96e35672118cea79182e.bundle.js (polyfills) 195 kB {4} [initial] [rendered]\
+chunk    {1} main.5b1b9b6cad1bd626a3dd.bundle.js (main) 679 bytes {3} [initial] [rendered]\
+chunk    {2} styles.d41d8cd98f00b204e980.bundle.css (styles) 69 bytes {4} [initial] [rendered]\
+chunk    {3} vendor.f6f25a63268d804c31f0.bundle.js (vendor) 870 kB [initial] [rendered]\
 chunk    {4} inline.02f0832d16ec256da998.bundle.js (inline) 0 bytes [entry] [rendered]
 
 ## BASE (without node_modules)
